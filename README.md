@@ -3,7 +3,7 @@ Some Jupyter Notebooks that do (mostly useless) things that I think is cool and/
 
 ## Contents
 
-- Mandelbrot: Draws the Mandelbrot set, using a recursive z-function.
+- Mandelbrot: Draws the Mandelbrot set, using a recursive z-function. See https://en.wikipedia.org/wiki/Mandelbrot_set
 
 - MarkovSCIENCE: Creates fake research article names with a Markov chain constructed from real article names from arxiv.org. Research topics can be specified by the user. Requires https://github.com/jsvine/markovify
 
