@@ -1,5 +1,5 @@
 # Jupyter-Notebooks
-Various fun Jupyter notebooks that I have made
+Some Jupyter Notebooks that do (mostly useless) things that I think is cool and/or funny.
 
 ###
 
