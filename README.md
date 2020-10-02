@@ -9,4 +9,4 @@ Some Jupyter Notebooks that do (mostly useless) things that I think is cool and/
 
 - **Times Tables String Art**: Creates patterns according to times tables inscribed in a circle, as described in https://www.youtube.com/watch?v=qhbuKbxJsk8
 
-- **Rosenbrock and Ackley MCMC**: An example of Markov Chain Monte Carlo (MCMC) used to find minimum distributions for the Rosenbrock and Ackley functions.
+- **Rosenbrock and Ackley MCMC**: An example of Markov Chain Monte Carlo (MCMC) used to find parameter distributions for the Rosenbrock and Ackley functions.
